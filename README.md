@@ -1,5 +1,4 @@
 Hello_World
 ===========
 
-My first repository
-Another line of code
+test to add funcitonally on how to use github.
